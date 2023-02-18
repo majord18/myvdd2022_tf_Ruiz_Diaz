@@ -9,4 +9,4 @@ Luego de tener la base limpia comencé a visualizar los datos jugando un poco co
  
  El sitio para poder visualizar el trabajo es:
  
- https://majord18.github.io/myvdd2022_tf_Ruiz_Diaz/
+  https://majord18.github.io/myvdd2022_tf_Ruiz_Diaz/
