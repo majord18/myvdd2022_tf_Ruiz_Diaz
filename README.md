@@ -6,5 +6,7 @@ Para llevar a cabo el trabajo seleccioné una base de datos *"Encuesta permanent
 En esta primer parte se trabajo con herramientas para importar la base y para manipularla.
 
 Luego de tener la base limpia comencé a visualizar los datos jugando un poco con las diferentes alternativas de colores, modelos, tipos de gráficas, con las diferentes variables, colocación de títulos, subtitulos, visualización plana e interactiva. Para lo cual utilicé librerias como ggplot2, plotly, algunas para manipular mapas, etc.
-
-https://github.com/majord18/myvdd2022_tf_Ruiz_Diaz.git
+ 
+ El sitio para poder visualizar el trabajo es:
+ 
+ https://majord18.github.io/myvdd2022_tf_Ruiz_Diaz/
